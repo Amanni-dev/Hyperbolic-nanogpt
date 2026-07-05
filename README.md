@@ -154,8 +154,7 @@ will hear the horse of his soul woo
 
 ## Acknowledgements
 
-- [modded-nanogpt](https://github.com/kellerjordan/nanoGPT) and [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) for the base implementation.
-- [hyp-nanogpt](https://github.com/Alex2034/hyp-nanogpt.git) for the base implementation.
+- [modded-nanogpt](https://github.com/kellerjordan/nanoGPT) and [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) and [hyp-nanogpt](https://github.com/Alex2034/hyp-nanogpt.git) for the base implementation.
 - [adamdivak/hyper_lm](https://github.com/adamdivak/hyper_lm) for reference hyperbolic transformer patterns.
 - [HNN++](https://github.com/mil-tokyo/hyperbolic_nn_plusplus) for hyperbolic neural network primitives.
 
